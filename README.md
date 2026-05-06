@@ -7,6 +7,11 @@
 
 ## Overview
 
+
+You can view or download the project PDF here:
+
+[Enterprise Security Lab PDF](docs/project.pdf)
+
 This repository contains my final graduation project completed at **STEP IT Academy**.
 
 I worked on this project for a little over a month and received the maximum grade: **12/12**.
